@@ -49,3 +49,4 @@ numpy==1.19.5
 oauthlib==2.0.6
 openpyxl==3.0.7
 gunicorn
+django-heroku
